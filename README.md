@@ -1,4 +1,4 @@
 # Tugas-Akhir
 
 
-<img src="https://drive.google.com/file/d/1RblgCdmI_Ms92SfOxVXwAvMN7tnOwonm/view?usp=share_link" height="25"/>
+<img src="https://github.com/FaisalT0435/Tugas-Akhir/blob/main/Arsitektur%20perangkat%20keras.jpg" height="25"/>
