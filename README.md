@@ -28,3 +28,7 @@
 8.  Sebelum tunning tidak menggunakan optimazer 
 9.  Model di save pada link : "https://drive.google.com/drive/folders/1YuL6B3foDClI0MK4mL4Qb288fdLqLaYM?usp=sharing"
 10.  Selanjutnya model akan dipanggil pada " Testing data dan MQTT Publisher.ipynb "
+
+
+### Link Demo Alat
+Drive : "https://drive.google.com/file/d/1Sc37scuXDqANYMRW9qwdI_dny101YA2t/view?usp=sharing"
